@@ -1,0 +1,15 @@
+{
+  "name": "distance",
+  "version": "1.0.0",
+  "description": "Calculating distances ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Luisa Castejon",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "linebyline": "^1.3.0"
+  }
+}
